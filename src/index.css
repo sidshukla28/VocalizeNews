@@ -1,0 +1,16 @@
+#root, html, body {
+  height: 10vh;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(238, 193, 240);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
