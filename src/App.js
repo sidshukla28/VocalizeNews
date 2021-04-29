@@ -26,7 +26,7 @@ const App = () => {
   return(
     <div>
       <div className={classes.logoContainer}>
-          <img src="voicefn.png" className={classes.alanLogo} alt="alan logo" />
+          <img src="voicefn1.png" className={classes.alanLogo} alt="alan logo" />
       </div>
       <NewsCards articles= {newsArticles} />
     </div>
