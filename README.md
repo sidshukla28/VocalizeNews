@@ -1,6 +1,6 @@
 I'm Siddharth Shukla, and I'm working on this web application.
 This is a conversational voice controlled news web application.
-This project enables you to add voice capability for searching for new things.
+This project enables you to add voice capability for searching new headlines across the globe.
 This is essentially a news project that provides the most recent news headlines.
 You can obtain the most recent news simply by asking for it.
 In this project, I'm utilising Alan AI features.
@@ -16,7 +16,7 @@ Try saying : What’s up with Elon musk.
 News by Sources :
 Try saying : I want news from CNN.
 Latest News :
-Try saying : I want latest news.
+Try saying : Give me the latest news.
 
 
 This web application was built with ReactJs technology.
